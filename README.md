@@ -1,11 +1,11 @@
-# Project Template
+# NPM bower Sass Gulp Template
 
-#### a program that is a template for starting new projects
+#### a template for starting new projects using NPM, bower, Sass and Gulp
 
 ### By Rob King
 
 ## Description
-This application is actually just a template that is used for starting new projects. Included is are the folders CSS, js, spec and img. with a stiles.css in the CSS folder, a scripts.ja and a jQuery.js files in the js folder and all the needed files for using Mocha and Chai for testing, and a .pairs file for pair Git activities.
+This is a template that is used for starting new projects. Included is are the folders SCSS, CSS, js, spec and img. with a stiles.css in the CSS folder, a scripts.ja and a jQuery.js files in the js folder and all the needed files for using Mocha and Chai for testing, and a .pairs file for pair Git activities.
 
 This template uses the [7-1 architecture pattern](http://sass-guidelin.es/#architecture) and sticking to [Sass Guidelines](http://sass-guidelin.es) writing conventions.
 Each folder of this project has its own `README.md` file to explain the purpose and add extra information. Be sure to browse the repository to see how it works.
